@@ -1,6 +1,5 @@
-Here’s a README file formatted for GitHub:
+Hereâ€™s a README file formatted for GitHub:
 
-```markdown
 # Bar Chart PDF Generator
 
 This project is a simple console application that generates a bar chart image and converts it into a PDF file. It demonstrates the use of `System.Drawing` for drawing the chart and `PdfSharp` for creating the PDF.
